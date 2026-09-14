@@ -4,10 +4,10 @@
   <defs>
     <linearGradient id="plum" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
       <stop stop-color="#190F1C"/>
-      <stop offset="0.22" stop-color="#2A1533"/>
-      <stop offset="0.52" stop-color="#673378"/>
-      <stop offset="0.78" stop-color="#8B45A3"/>
-      <stop offset="1" stop-color="#2A1533"/>
+      <stop offset="0.24" stop-color="#2A1533"/>
+      <stop offset="0.54" stop-color="#4A2555"/>
+      <stop offset="0.80" stop-color="#673378"/>
+      <stop offset="1" stop-color="#241430"/>
     </linearGradient>
 
     <linearGradient id="sheen" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
@@ -17,7 +17,7 @@
     </linearGradient>
 
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(600 185) rotate(-90) scale(155 520)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#BF7FD9" stop-opacity="0.55"/>
+      <stop stop-color="#BF7FD9" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#BF7FD9" stop-opacity="0"/>
     </radialGradient>
 
