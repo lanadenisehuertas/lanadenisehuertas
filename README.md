@@ -44,15 +44,15 @@ Electron + Python application that analyzes real-time keystroke and mouse dynami
 </td>
 <td width="50%" valign="top">
 
-### [Debt Payoff Ledger](https://github.com/lanadenisehuertas/debt-ledger)
+### [Algebrawl](https://github.com/russellmagdaong/algebrawl)
 
-**Typed and tested personal finance web app**
+**Arcade-style educational math battle game**
 
-Rebuilt from a single-file prototype into a Next.js application with a framework-independent allocation engine, 18 Vitest unit tests, local persistence, and optional Supabase cloud sync.
+Originally created with my team as a college Java project, Algebrawl turns algebra practice into turn-based battles against legendary mathematicians. The project now includes a modern, responsive web edition.
 
-`TypeScript` `Next.js` `Vitest` `Supabase` `Product Design`
+`Java` `Game Design` `Mathematics` `Team Project`
 
-[View live app →](https://debt-ledger-puce.vercel.app)
+[Play the web edition →](https://algebrawl.vercel.app)
 
 </td>
 </tr>
