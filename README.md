@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://portfolio-lanahuertas.vercel.app">
-  <img src="./assets/lana-profile-header.png" alt="Lana Denise Huertas — UI/UX Designer and Software Engineer" width="100%" />
+  <img src="./assets/lana-profile-header-purple.png" alt="Lana Huertas — UI/UX Designer and Software Engineer" width="100%" />
 </a>
 
 <br />
@@ -116,5 +116,9 @@ focus:
 ### Have a thoughtful product or design problem?
 
 [Explore my portfolio](https://portfolio-lanahuertas.vercel.app) · [Browse my repositories](https://github.com/lanadenisehuertas?tab=repositories) · [Email me](mailto:lanadenisehuertas@gmail.com)
+
+<br />
+
+<img src="./assets/profile-footer.svg" alt="Designing with intention and building with care — Lana Huertas, Manila" width="100%" />
 
 </div>
