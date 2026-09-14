@@ -86,7 +86,11 @@ Rebuilt from a single-file prototype into a Next.js application with a framework
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=lanadenisehuertas&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=DB2777&text_color=6B7280" alt="Lana's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanadenisehuertas&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=6B7280" alt="Lana's most used languages" />
 
-![Contribution snake](https://raw.githubusercontent.com/lanadenisehuertas/lanadenisehuertas/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanadenisehuertas/lanadenisehuertas/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanadenisehuertas/lanadenisehuertas/output/github-contribution-grid-snake.svg" />
+  <img alt="Lana's contribution graph animated as a snake" src="https://raw.githubusercontent.com/lanadenisehuertas/lanadenisehuertas/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
