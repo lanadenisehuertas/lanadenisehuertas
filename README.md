@@ -47,15 +47,15 @@ A Windows application that supports clinician-guided screening through real-time
 </td>
 <td width="50%" valign="top">
 
-### [PsyClick Product Site](https://github.com/lanadenisehuertas/psyclick-app)
+### [Bloom](https://github.com/lanadenisehuertas/bloom)
 
-**Public-facing product experience**
+**Cycle-aware fitness and nutrition coach**
 
-A responsive product website designed to make PsyClick's purpose, workflows, and research context easier to understand through a clear visual narrative.
+An iPhone-ready progressive web app that adapts workouts, nutrition, recovery, and progress tracking around the user's goals and menstrual cycle—all through a colorful, privacy-first experience.
 
-`TypeScript` `React` `UI/UX` `Responsive Design`
+`TypeScript` `React` `PWA` `IndexedDB` `UI/UX`
 
-[Visit the live site →](https://psyclick-app.vercel.app)
+[Explore the project →](https://github.com/lanadenisehuertas/bloom)
 
 </td>
 </tr>
