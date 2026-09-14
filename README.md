@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://portfolio-lanahuertas.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&duration=3200&color=BF7FD9&center=true&vCenter=true&width=820&height=46&lines=I+design+thoughtful+interfaces...;...and+build+the+systems+behind+them.;UI%2FUX+Design+Intern+%40+Eden+Holdings+Philippines;BS+Computer+Science+%E2%80%94+Software+Engineering" alt="I design thoughtful interfaces and build the systems behind them" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&duration=3200&color=BF7FD9&center=true&vCenter=true&width=820&height=46&lines=I+design+thoughtful+interfaces...;...and+build+the+systems+behind+them.;UI%2FUX+Design;BS+Computer+Science+%E2%80%94+Software+Engineering" alt="I design thoughtful interfaces and build the systems behind them" />
 </a>
 
 <a href="https://portfolio-lanahuertas.vercel.app">
