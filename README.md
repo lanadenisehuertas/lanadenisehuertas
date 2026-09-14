@@ -1,33 +1,36 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,18,20,24&text=Lana%20Denise%20Huertas&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Software%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Project%20Manager&descAlignY=57&animation=fadeIn)
+<a href="https://portfolio-lanahuertas.vercel.app">
+  <img src="./assets/lana-profile-header.png" alt="Lana Denise Huertas — UI/UX Designer and Software Engineer" width="100%" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lanahuertas.vercel.app)
-[![Email](https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanadenisehuertas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lanadenisehuertas)
+<br />
+
+### I design thoughtful interfaces and build the systems behind them.
+
+Manila, Philippines · UI/UX Design Intern · Computer Science student
+
+<br />
+
+<a href="https://portfolio-lanahuertas.vercel.app">
+  <img src="https://img.shields.io/badge/VIEW_MY_DESIGN_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View Lana's design portfolio" />
+</a>
+&nbsp;
+<a href="mailto:lanadenisehuertas@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Lana" />
+</a>
 
 </div>
 
-## Hello, I'm Lana 👋
+## ✦ Portfolio first
 
-I design thoughtful interfaces and build the systems behind them. I'm a Computer Science student at **FEU Institute of Technology**, an **Elite Scholar and DOST Scholar**, and a **UI/UX Design Intern** based in Manila, Philippines.
+My portfolio brings together selected **UI/UX work, product thinking, visual design, and frontend builds**—from early flows and prototypes to polished digital experiences.
 
-My sweet spot is where product thinking, visual design, and engineering meet—from shaping user flows in Figma to building typed, tested applications with Python, TypeScript, Electron, Next.js, and Supabase.
+### [portfolio-lanahuertas.vercel.app →](https://portfolio-lanahuertas.vercel.app)
 
-```yaml
-currently:
-  role: UI/UX Design Intern at Eden Holdings Philippines Inc.
-  degree: BS Computer Science — Software Engineering
-  graduation: July 2027
-  focus: accessible digital experiences, dependable backends, human-centered products
+## ✦ Pinned work
 
-outside_code:
-  - graphic design and visual storytelling
-  - project leadership and cross-functional collaboration
-  - turning complex requirements into clear experiences
-```
-
-## Selected work
+These are the projects currently pinned on my GitHub profile.
 
 <table>
 <tr>
@@ -37,54 +40,72 @@ outside_code:
 
 **Clinical psychomotor screening desktop app**
 
-Electron + Python application that analyzes real-time keystroke and mouse dynamics for clinician-guided screening. I lead the four-person thesis team while owning backend development and UI/UX design.
+A Windows application that supports clinician-guided screening through real-time keystroke and mouse-dynamics analysis. I lead the four-person thesis team while working across backend development and UI/UX design.
 
-`Python` `Electron` `Supabase` `Statistics` `UI/UX`
+`Python` `Electron` `Supabase` `Statistical Analysis`
 
 </td>
 <td width="50%" valign="top">
 
-### [Algebrawl](https://github.com/russellmagdaong/algebrawl)
+### [PsyClick Product Site](https://github.com/lanadenisehuertas/psyclick-app)
 
-**Arcade-style educational math battle game**
+**Public-facing product experience**
 
-Originally created with my team as a college Java project, Algebrawl turns algebra practice into turn-based battles against legendary mathematicians. The project now includes a modern, responsive web edition.
+A responsive product website designed to make PsyClick's purpose, workflows, and research context easier to understand through a clear visual narrative.
 
-`Java` `Game Design` `Mathematics` `Team Project`
+`TypeScript` `React` `UI/UX` `Responsive Design`
 
-[Play the web edition →](https://algebrawl.vercel.app)
+[Visit the live site →](https://psyclick-app.vercel.app)
 
 </td>
 </tr>
 </table>
 
-## Toolbox
+## ✦ Collaboration spotlight
+
+### [⚔️ Algebrawl — Math Battle Arena](https://github.com/russellmagdaong/algebrawl)
+
+An arcade-style educational game originally created with my college team in Java. Algebra practice becomes turn-based battles against Gauss, Newton, and Fibonacci; the project now also has a responsive React and TypeScript web edition.
+
+`Java` `Game Design` `Mathematics` `Team Project` · [Play online →](https://algebrawl.vercel.app)
+
+## ✦ A little about me
+
+```yaml
+name: Lana Denise Huertas
+role: UI/UX Design Intern at Eden Holdings Philippines Inc.
+education: BS Computer Science — Software Engineering
+graduation: July 2027
+recognition: Elite Scholar and DOST Scholar
+focus:
+  - human-centered product design
+  - accessible, polished interfaces
+  - dependable application backends
+  - translating complex requirements into clear experiences
+```
+
+## ✦ Design + development toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,nextjs,react,electron,supabase,figma,ai,ps,git,github,vscode&perline=7" alt="Python, TypeScript, JavaScript, Kotlin, Next.js, React, Electron, Supabase, Figma, Illustrator, Photoshop, Git, GitHub, and VS Code" />
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,python,ts,js,kotlin,nextjs,react,electron,supabase,git,github,vscode&perline=7" alt="Figma, Illustrator, Photoshop, Python, TypeScript, JavaScript, Kotlin, Next.js, React, Electron, Supabase, Git, GitHub, and VS Code" />
 
 </div>
 
-| Build | Design | Lead |
+| Design | Build | Lead |
 |:--|:--|:--|
-| Python, JavaScript/TypeScript, Kotlin fundamentals | Figma, Photoshop, Illustrator, Canva | Project planning, team coordination, stakeholder translation |
-| Electron, Next.js, React, REST APIs, Supabase | Wireframes, user flows, prototypes, design systems | Research workstreams, creative direction, delivery timelines |
-| Testing, offline-first data, statistical methods | Typography, hierarchy, accessible UI | Cross-functional collaboration and thesis leadership |
+| Figma, Photoshop, Illustrator, Canva | Python, JavaScript/TypeScript, Kotlin fundamentals | Project planning and team coordination |
+| Wireframes, user flows, prototypes | Electron, Next.js, React, REST APIs | Stakeholder translation and creative direction |
+| Design systems, typography, accessible UI | Supabase, testing, offline-first data | Cross-functional delivery and thesis leadership |
 
-## A few milestones
+## ✦ Milestones
 
-- 🏅 IT Specialist: Python — Certiport / Pearson VUE
-- 📋 PMI Project Management Ready — Project Management Institute
-- 🎓 Elite Scholar and DOST Scholar
-- 🎨 Former Creatives Committee Head for the Student Coordinating Council and ACM Chapter
-
-## GitHub in motion
+- **IT Specialist: Python** — Certiport / Pearson VUE
+- **PMI Project Management Ready** — Project Management Institute
+- **Elite Scholar and DOST Scholar** — FEU Institute of Technology
+- Former **Creatives Committee Head** — Student Coordinating Council and ACM Chapter
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lanadenisehuertas&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=DB2777&text_color=6B7280" alt="Lana's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanadenisehuertas&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=6B7280" alt="Lana's most used languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanadenisehuertas/lanadenisehuertas/output/github-contribution-grid-snake-dark.svg" />
@@ -92,14 +113,8 @@ Originally created with my team as a college Java project, Algebrawl turns algeb
   <img alt="Lana's contribution graph animated as a snake" src="https://raw.githubusercontent.com/lanadenisehuertas/lanadenisehuertas/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
+### Have a thoughtful product or design problem?
 
-<div align="center">
-
-### Let's make something useful—and make it feel good to use.
-
-[Explore my portfolio](https://portfolio-lanahuertas.vercel.app) · [See my repositories](https://github.com/lanadenisehuertas?tab=repositories) · [Say hello](mailto:lanadenisehuertas@gmail.com)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12,18,20,24)
+[Explore my portfolio](https://portfolio-lanahuertas.vercel.app) · [Browse my repositories](https://github.com/lanadenisehuertas?tab=repositories) · [Email me](mailto:lanadenisehuertas@gmail.com)
 
 </div>
