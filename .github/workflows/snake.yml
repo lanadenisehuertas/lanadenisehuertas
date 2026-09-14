@@ -1,0 +1,28 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: lanadenisehuertas
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#DB2777
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#C084FC
+
+      - name: Publish generated assets
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
